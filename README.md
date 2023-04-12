@@ -1,7 +1,7 @@
 
 =======
 # Jugando con Issues y Pull Request :bowtie: :bowtie: OS GUSTA LA CARITA CON PAJARITA?
-
+:neckbeard::neckbeard::neckbeard::neckbeard:
 
 
 
