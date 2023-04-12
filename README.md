@@ -1,4 +1,5 @@
-# Jugando con Issues y Pull Request
+# Jugando con Issues y Pull Request :bowtie:
+
 
 ## La comunicación entre desarrolladores
 
