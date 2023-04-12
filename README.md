@@ -1,6 +1,8 @@
 
 =======
-# Jugando con Issues y Pull Request
+# Jugando con Issues y Pull Request :bowtie: :bowtie: OS GUSTA LA CARITA CON PAJARITA?
+
+
 
 
 ## La comunicación entre desarrolladores
