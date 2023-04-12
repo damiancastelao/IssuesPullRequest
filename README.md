@@ -1,4 +1,9 @@
-# Jugando con Issues y Pull Request
+
+=======
+# Jugando con Issues y Pull Request :bowtie: :bowtie: OS GUSTA LA CARITA CON PAJARITA?
+
+
+
 
 ## La comunicación entre desarrolladores
 
@@ -29,3 +34,5 @@ Una vez clara y firme la idea, entonces: escribirla en texto simple:  "mejora qu
 Esto lo hacemos en el apartado de Issues del repositorio.
 
 Solo al intentar hacer esto (describir el issue) se aclaran ideas internas de uno mismo, se fuerza a discernir entre que es lo objetivo y que es basura. 
+
+
