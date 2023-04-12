@@ -2,6 +2,7 @@
 =======
 # Jugando con Issues y Pull Request
 
+
 ## La comunicación entre desarrolladores
 
 ---
@@ -32,8 +33,4 @@ Esto lo hacemos en el apartado de Issues del repositorio.
 
 Solo al intentar hacer esto (describir el issue) se aclaran ideas internas de uno mismo, se fuerza a discernir entre que es lo objetivo y que es basura. 
 
-# JugandoConIssues
-### Profe guapo
 
-abriendo un isue
-`open #2`
